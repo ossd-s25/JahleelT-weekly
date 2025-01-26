@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Jahleel Townsend
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -17,7 +17,7 @@ description: CSCI-UA 480 Student, Spring 2025
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /JahleelT-weekly/images/squirrel.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
