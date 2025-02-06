@@ -17,9 +17,9 @@ description: CSCI-UA 480 Student 'Open Source Software Development', Spring 2025
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: images/squirrel.png 
+avatar: /jahleelt-weekly/images/squirrel.png 
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: Leucistic European Gray Squirrel
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
@@ -32,7 +32,7 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jlt9287@nyu.edu
+  email:
   facebook:
   flickr:
   github: JahleelT
