@@ -30,5 +30,10 @@ Replace the first row with your own contribution.
 |   Mar 14  |  [Information Amendment](https://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Memphis:~:text=conceptualized%20all%20of%20existence.%20They%20were%20then)  | Wikipedia Edit   | Slightly clarified part of the Memphite Cosmology   |
 | Mar 15   | [Missing Bus Stop and Relation](https://www.openstreetmap.org/changeset/163671073)   | OpenStreetMap Edit   | Added a Missing Bus Stop and Bus Relation  |
 | Mar 16   | [Networks, Operators, and Relations of M8](https://www.openstreetmap.org/changeset/163712218)   | OpenStreetMap Edit   | Added missing bus stop information   |
+|  Mar 18  | [Networks, Operators, and Relations of M8 PT 2](https://www.openstreetmap.org/changeset/163757510)   | OpenStreetMap Edit   |    |
+| Mar 18   | [Nearly empty stop populated with info](https://www.openstreetmap.org/changeset/163757622)   |  OpenStreetMap Edit  |  Completely filled out a hollow (preexisting) bus stop's info for the Westbound M8  |
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
