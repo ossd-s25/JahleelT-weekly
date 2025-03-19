@@ -33,7 +33,7 @@ Replace the first row with your own contribution.
 |  Mar 18  | [Networks, Operators, and Relations of M8 PT 2](https://www.openstreetmap.org/changeset/163757510)   | OpenStreetMap Edit   | Added missing information from several bus stops   |
 | Mar 18   | [Nearly empty stop populated with info](https://www.openstreetmap.org/changeset/163757622)   |  OpenStreetMap Edit  |  Completely filled out a hollow (preexisting) bus stop's info for the Westbound M8  |
 | Mar 19   |  [Missing stop + missing info](https://www.openstreetmap.org/changeset/163821006)  | OpenStreetMap Edit   | Added a missing stop for the Westbound M8 and filled out missing info in another preexisting stop   |
-|    |    |    |    |
+|  Mar 19  | [Westbound M8 line](https://www.openstreetmap.org/changeset/163822488)   | OpenStreetMap Edit |  ***Medium contribution (counted as 20 separate edits made)*** Added final missing stop, filled out missing relevant info across any westbound m8 stop, deleted extra/erroneous stops, and repositioned incorrectly placed stops all for the Westbound M8 bus.  |
 |    |    |    |    |
 |    |    |    |    |
 |    |    |    |    |
